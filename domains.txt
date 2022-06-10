@@ -1,0 +1,4 @@
+ai-data.pl
+google.com
+youtube.com
+wp.pl

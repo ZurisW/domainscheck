@@ -1,0 +1,32 @@
+
+Domain: ai-data.pl
+Owner: home.pl S.A.
+Register date: 2020-02-24 23:04:07
+Expiration date: 2023-02-24 23:04:07
+Left to expire from today: 259 days, 6:10:51
+-------------------------------
+
+
+Domain: ['GOOGLE.COM', 'google.com']
+Owner: MarkMonitor, Inc.
+Register date: [datetime.datetime(1997, 9, 15, 4, 0), datetime.datetime(1997, 9, 15, 7, 0)]
+Expiration date: [datetime.datetime(2028, 9, 14, 4, 0), datetime.datetime(2028, 9, 13, 7, 0)]
+Left to expire from today: 2287 days, 11:06:44
+-------------------------------
+
+
+Domain: YOUTUBE.COM
+Owner: MarkMonitor Inc.
+Register date: 2005-02-15 05:13:12
+Expiration date: 2023-02-15 05:13:12
+Left to expire from today: 249 days, 12:19:55
+-------------------------------
+
+
+Domain: wp.pl
+Owner: AZ.pl Sp. z o.o.
+Register date: 1998-04-28 13:00:00
+Expiration date: 2023-04-27 14:00:00
+Left to expire from today: 320 days, 21:06:43
+-------------------------------
+
